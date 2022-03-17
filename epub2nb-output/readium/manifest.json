@@ -1,0 +1,271 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Pásmo",
+    "identifier": "5369f9fd-ae0c-4531-96da-8300f87817bb",
+    "author": "Guillaume Apollinaire",
+    "publisher": "Městská knihovna v Praze",
+    "language": "cs",
+    "modified": "2022-03-17T06:50:54.655Z",
+    "Sigil version": "0.9.9"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pasmo_001.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pasmo_002.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pasmo_003.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pasmo_004.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pasmo_005.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pasmo_006.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pasmo_007.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pasmo_008.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pasmo_009.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pasmo_010.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pasmo_011.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pasmo_012.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pasmo_013.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pasmo_014.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pasmo_015.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pasmo_016.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pasmo_017.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pasmo_018.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pasmo_019.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pasmo_020.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pasmo_021.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pasmo_022.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pasmo_023.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pasmo_024.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pasmo_025.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pasmo_026.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pasmo_027.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pasmo_028.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pasmo_029.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pasmo_030.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pasmo_031.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pasmo_032.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pasmo_033.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pasmo_034.html"
+    }
+  ],
+  "resources": [
+    {
+      "type": "application/x-font-ttf",
+      "href": "OEBPS/Fonts/Book-Antiqua-Bold-Italic.ttf"
+    },
+    {
+      "type": "application/x-font-ttf",
+      "href": "OEBPS/Fonts/Book-Antiqua-Bold.ttf"
+    },
+    {
+      "type": "application/x-font-ttf",
+      "href": "OEBPS/Fonts/Book-Antiqua-Italic.ttf"
+    },
+    {
+      "type": "application/x-font-ttf",
+      "href": "OEBPS/Fonts/Book-Antiqua.ttf"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image001.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image002.jpg"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/image003.png"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/page_styles.css"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/stylesheet.css"
+    },
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/B_18477_003.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/B_18477_004.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/B_18477_004b.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/B_18477_005.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/B_18477_005b.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/B_18477_005c.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/B_18477_006.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/B_18477_006b.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/B_18477_007.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/B_18477_007b.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/B_18477_008.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/B_18477_008b.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/B_18477_009.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/B_18477_009b.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/obalka.jpg"
+    }
+  ],
+  "toc": [
+    {
+      "title": "Pásmo",
+      "href": "OEBPS/Text/pasmo_006.html"
+    },
+    {
+      "title": "Poznámka Karla Čapka",
+      "href": "OEBPS/Text/pasmo_032.html"
+    },
+    {
+      "title": "Ediční poznámka",
+      "href": "OEBPS/Text/pasmo_033.html"
+    }
+  ]
+}
