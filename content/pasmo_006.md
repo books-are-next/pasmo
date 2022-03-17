@@ -1,0 +1,6 @@
+---
+title: Pásmo
+contentType: prose
+---
+
+
