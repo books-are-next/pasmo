@@ -1,0 +1,709 @@
+{
+  "author": "Guillaume Apollinaire",
+  "contenttype": "poetry",
+  "identifier": "apollinaire-pasmo-e9848ac",
+  "languagecode": "cs",
+  "modified": "2022-03-17T06:50:54.655Z",
+  "publisher": "Městská knihovna v Praze",
+  "publishershort": "mkp",
+  "title": "Pásmo",
+  "revision": "e9848ac",
+  "generatedAt": {
+    "date": "Thu Mar 17 2022 07:03:51 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1647500631785
+  },
+  "documents": [
+    {
+      "title": "Pásmo",
+      "file": "pasmo_001.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "pasmo_002.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pásmo",
+      "file": "pasmo_002.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 1,
+      "prev": "pasmo_001.html",
+      "next": "pasmo_003.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pásmo",
+      "file": "pasmo_003.html",
+      "words": 3,
+      "chars": 26,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 2,
+      "prev": "pasmo_002.html",
+      "next": "pasmo_004.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pásmo",
+      "file": "pasmo_004.html",
+      "words": 89,
+      "chars": 590,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 3,
+      "prev": "pasmo_003.html",
+      "next": "pasmo_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pásmo",
+      "file": "pasmo_005.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 4,
+      "prev": "pasmo_004.html",
+      "next": "pasmo_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pásmo • Pásmo",
+      "file": "pasmo_006.html",
+      "words": 1,
+      "chars": 5,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 5,
+      "prev": "pasmo_005.html",
+      "next": "pasmo_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pásmo",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pásmo",
+      "file": "pasmo_007.html",
+      "words": 101,
+      "chars": 587,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 6,
+      "prev": "pasmo_006.html",
+      "next": "pasmo_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pásmo",
+      "file": "pasmo_008.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 7,
+      "prev": "pasmo_007.html",
+      "next": "pasmo_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pásmo",
+      "file": "pasmo_009.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 8,
+      "prev": "pasmo_008.html",
+      "next": "pasmo_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pásmo",
+      "file": "pasmo_010.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 9,
+      "prev": "pasmo_009.html",
+      "next": "pasmo_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pásmo",
+      "file": "pasmo_011.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 10,
+      "prev": "pasmo_010.html",
+      "next": "pasmo_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pásmo",
+      "file": "pasmo_012.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 11,
+      "prev": "pasmo_011.html",
+      "next": "pasmo_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pásmo",
+      "file": "pasmo_013.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 12,
+      "prev": "pasmo_012.html",
+      "next": "pasmo_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pásmo",
+      "file": "pasmo_014.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 13,
+      "prev": "pasmo_013.html",
+      "next": "pasmo_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pásmo",
+      "file": "pasmo_015.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 14,
+      "prev": "pasmo_014.html",
+      "next": "pasmo_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pásmo",
+      "file": "pasmo_016.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 15,
+      "prev": "pasmo_015.html",
+      "next": "pasmo_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pásmo",
+      "file": "pasmo_017.html",
+      "words": 134,
+      "chars": 714,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 16,
+      "prev": "pasmo_016.html",
+      "next": "pasmo_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pásmo",
+      "file": "pasmo_018.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 17,
+      "prev": "pasmo_017.html",
+      "next": "pasmo_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pásmo",
+      "file": "pasmo_019.html",
+      "words": 103,
+      "chars": 540,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 18,
+      "prev": "pasmo_018.html",
+      "next": "pasmo_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pásmo",
+      "file": "pasmo_020.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 19,
+      "prev": "pasmo_019.html",
+      "next": "pasmo_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pásmo",
+      "file": "pasmo_021.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 20,
+      "prev": "pasmo_020.html",
+      "next": "pasmo_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pásmo",
+      "file": "pasmo_022.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 21,
+      "prev": "pasmo_021.html",
+      "next": "pasmo_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pásmo",
+      "file": "pasmo_023.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 22,
+      "prev": "pasmo_022.html",
+      "next": "pasmo_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pásmo",
+      "file": "pasmo_024.html",
+      "words": 139,
+      "chars": 740,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 23,
+      "prev": "pasmo_023.html",
+      "next": "pasmo_025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pásmo",
+      "file": "pasmo_025.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 24,
+      "prev": "pasmo_024.html",
+      "next": "pasmo_026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pásmo",
+      "file": "pasmo_026.html",
+      "words": 189,
+      "chars": 1018,
+      "ideas": 23,
+      "role": "chapter",
+      "order": 25,
+      "prev": "pasmo_025.html",
+      "next": "pasmo_027.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pásmo",
+      "file": "pasmo_027.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 26,
+      "prev": "pasmo_026.html",
+      "next": "pasmo_028.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pásmo",
+      "file": "pasmo_028.html",
+      "words": 22,
+      "chars": 129,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 27,
+      "prev": "pasmo_027.html",
+      "next": "pasmo_029.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pásmo",
+      "file": "pasmo_029.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 28,
+      "prev": "pasmo_028.html",
+      "next": "pasmo_030.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pásmo",
+      "file": "pasmo_030.html",
+      "words": 84,
+      "chars": 477,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 29,
+      "prev": "pasmo_029.html",
+      "next": "pasmo_031.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pásmo",
+      "file": "pasmo_031.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 30,
+      "prev": "pasmo_030.html",
+      "next": "pasmo_032.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Poznámka\nKarla Čapka • Pásmo",
+      "file": "pasmo_032.html",
+      "words": 252,
+      "chars": 1737,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 31,
+      "prev": "pasmo_031.html",
+      "next": "pasmo_033.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Poznámka\nKarla Čapka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ediční poznámka • Pásmo",
+      "file": "pasmo_033.html",
+      "words": 111,
+      "chars": 736,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 32,
+      "prev": "pasmo_032.html",
+      "next": "pasmo_034.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ediční poznámka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pásmo",
+      "file": "pasmo_034.html",
+      "words": 52,
+      "chars": 349,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 33,
+      "prev": "pasmo_033.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 1285,
+      "chars": 7682,
+      "ideas": 146
+    },
+    "chapters": {
+      "words": 1280,
+      "chars": 7648,
+      "ideas": 142
+    }
+  }
+}
