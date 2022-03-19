@@ -33,14 +33,15 @@
       {
         "isSection": true,
         "id": "section-1",
+        "listType": "plain",
         "children": [
           {
             "filename": "pasmo_001.md",
             "xhtml": "pasmo_001.html",
             "id": 0,
-            "role": "chapter",
+            "role": "cover",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -50,9 +51,9 @@
             "filename": "pasmo_002.md",
             "xhtml": "pasmo_002.html",
             "id": 1,
-            "role": "chapter",
+            "role": "break",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -62,9 +63,9 @@
             "filename": "pasmo_003.md",
             "xhtml": "pasmo_003.html",
             "id": 2,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -74,9 +75,9 @@
             "filename": "pasmo_004.md",
             "xhtml": "pasmo_004.html",
             "id": 3,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -104,7 +105,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Pásmo"
           },
           {
             "filename": "pasmo_007.md",
@@ -416,7 +418,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Poznámka\nKarla Čapka"
           },
           {
             "filename": "pasmo_033.md",
@@ -428,15 +431,16 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Ediční poznámka"
           },
           {
             "filename": "pasmo_034.md",
             "xhtml": "pasmo_034.html",
             "id": 33,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -453,7 +457,7 @@
       "identifier": "5369f9fd-ae0c-4531-96da-8300f87817bb",
       "author": "Guillaume Apollinaire",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2022-03-17T06:50:54.655Z"
+      "modified": "2022-03-17T07:02:45.859Z"
     },
     "chapters": [
       {
@@ -487,7 +491,7 @@
         "xhtml": "pasmo_005.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Pásmo",
         "subtitleSuggest": "",
         "filename": "pasmo_006.md",
         "xhtml": "pasmo_006.html"
@@ -643,13 +647,13 @@
         "xhtml": "pasmo_031.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Poznámka\nKarla Čapka",
         "subtitleSuggest": "",
         "filename": "pasmo_032.md",
         "xhtml": "pasmo_032.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Ediční poznámka",
         "subtitleSuggest": "",
         "filename": "pasmo_033.md",
         "xhtml": "pasmo_033.html"
@@ -808,6 +812,6 @@
       "user": "books-are-next",
       "repo": "pasmo"
     },
-    "generatedAt": 1647499854882
+    "generatedAt": 1647500566135
   }
 }
