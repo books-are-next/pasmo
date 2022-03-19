@@ -13,10 +13,7 @@ meta:
   modified: '2022-03-17T06:50:54.655Z'
   publisherShort: mkp
 readingOrder:
-  - pasmo_001.html
   - pasmo_002.html
-  - pasmo_003.html
-  - pasmo_004.html
   - pasmo_005.html
   - pasmo_006.html
   - pasmo_007.html
@@ -46,11 +43,23 @@ readingOrder:
   - pasmo_031.html
   - pasmo_032.html
   - pasmo_033.html
-  - pasmo_034.html
+  - colophon.html
 tocBase:
   - id: section-1
-    children: []
+    children:
+      - link: pasmo_006.html
+        title: Pásmo
+        hiddenTitle: false
+      - link: pasmo_032.html
+        title: |-
+          Poznámka
+          Karla Čapka
+        hiddenTitle: false
+      - link: pasmo_033.html
+        title: Ediční poznámka
+        hiddenTitle: false
     isSection: true
+    listType: plain
 static:
   - style
   - scripts
