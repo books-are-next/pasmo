@@ -13,7 +13,7 @@ meta:
   modified: '2022-03-17T06:50:54.655Z'
   publisherShort: mkp
 readingOrder:
-  - pasmo_002.html
+  - promo.html
   - pasmo_005.html
   - pasmo_006.html
   - pasmo_032.html

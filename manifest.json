@@ -1,21 +1,30 @@
 {
-  "author": "Guillaume Apollinaire",
-  "contenttype": "poetry",
-  "identifier": "apollinaire-pasmo-7f8d4d8",
-  "languagecode": "cs",
-  "modified": "2022-03-17T06:50:54.655Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Pásmo",
-  "revision": "7f8d4d8",
+  "author": "Guillaume Apollinaire",
+  "publisher": "Městská knihovna v Praze",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "apollinaire-pasmo-53aaa97",
+  "revision": "53aaa97",
+  "readingOrder": [
+    "promo.html",
+    "pasmo_005.html",
+    "pasmo_006.html",
+    "pasmo_032.html",
+    "pasmo_033.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Sat Mar 19 2022 09:36:46 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1647682606214
+    "date": "Thu May 12 2022 10:40:23 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652352023324
   },
   "documents": [
     {
-      "title": "Pásmo",
-      "file": "pasmo_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -23,15 +32,7 @@
       "order": 0,
       "prev": null,
       "next": "pasmo_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
       "title": "Pásmo",
@@ -41,7 +42,7 @@
       "ideas": 0,
       "role": "chapter",
       "order": 1,
-      "prev": "pasmo_002.html",
+      "prev": "promo.html",
       "next": "pasmo_006.html",
       "toc": [
         {
@@ -54,7 +55,7 @@
       ]
     },
     {
-      "title": "Pásmo • Pásmo",
+      "title": "Pásmo",
       "file": "pasmo_006.html",
       "words": 1209,
       "chars": 6560,
@@ -74,11 +75,11 @@
       ]
     },
     {
-      "title": "Poznámka\nKarla Čapka • Pásmo",
+      "title": "Poznámka Karla Čapka",
       "file": "pasmo_032.html",
       "words": 252,
-      "chars": 1737,
-      "ideas": 14,
+      "chars": 1738,
+      "ideas": 13,
       "role": "chapter",
       "order": 3,
       "prev": "pasmo_006.html",
@@ -87,14 +88,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Poznámka\nKarla Čapka",
+          "name": "Poznámka Karla Čapka",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Ediční poznámka • Pásmo",
+      "title": "Ediční poznámka",
       "file": "pasmo_033.html",
       "words": 111,
       "chars": 736,
@@ -114,11 +115,11 @@
       ]
     },
     {
-      "title": "Tiráž • Pásmo",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 145,
-      "chars": 970,
-      "ideas": 24,
+      "words": 118,
+      "chars": 789,
+      "ideas": 15,
       "role": "colophon",
       "order": null,
       "prev": "pasmo_033.html",
@@ -136,14 +137,14 @@
   ],
   "totals": {
     "all": {
-      "words": 1721,
-      "chars": 10032,
-      "ideas": 215
+      "words": 1694,
+      "chars": 9852,
+      "ideas": 205
     },
     "chapters": {
       "words": 1572,
-      "chars": 9033,
-      "ideas": 188
+      "chars": 9034,
+      "ideas": 187
     }
   }
 }

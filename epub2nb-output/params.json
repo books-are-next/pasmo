@@ -51,7 +51,7 @@
             "filename": "pasmo_002.md",
             "xhtml": "pasmo_002.html",
             "id": 1,
-            "role": "break",
+            "role": "promo",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -449,8 +449,7 @@
         ],
         "devoured": false
       }
-    ],
-    "replacements": []
+    ]
   },
   "epub": {
     "metadata": {
@@ -648,7 +647,7 @@
         "xhtml": "pasmo_031.html"
       },
       {
-        "titleSuggest": "Poznámka\nKarla Čapka",
+        "titleSuggest": "Poznámka Karla Čapka",
         "subtitleSuggest": "",
         "filename": "pasmo_032.md",
         "xhtml": "pasmo_032.html"
@@ -813,6 +812,6 @@
       "user": "books-are-next",
       "repo": "pasmo"
     },
-    "generatedAt": 1647682545930
+    "generatedAt": 1652351494672
   }
 }
