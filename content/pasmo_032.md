@@ -1,7 +1,5 @@
 ---
-title: |-
-  Poznámka
-  Karla Čapka
+title: Poznámka Karla Čapka
 contentType: prose
 ---
 
