@@ -2,6 +2,7 @@
 title: Tiráž
 ---
 
+<section>  
 **Guillaume Apollinaire**  
 **Pásmo**  
 Edice Světová poezie v českých překladech  
@@ -10,11 +11,8 @@ Překlad Karel Čapek
 Redakce Jaroslava Bednářová  
 Vydala **Městská knihovna v Praze**  
 Mariánské nám. 1, 115 72 Praha 1  
+</section>  
 1. vydání z 10. 6. 2022.
-
-***
-
-Znění tohoto textu vychází z díla [Pásmo](https://search.mlp.cz/cz/titul/pasmo/65021/) tak, jak bylo vydáno v Praze nakladatelstvím Protis v roce 1997 jako reprint prvního vydání z roku 1919 v nakladatelství Fr. Borový. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.
 
 ***
 

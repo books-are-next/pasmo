@@ -764,7 +764,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 /// <reference lib="WebWorker" />
 require("regenerator-runtime");
 const sw = self;
-const CACHE = 'cache-434e356';
+const CACHE = 'cache-5b50fe8';
 /**
  * IndexedDB singleton wrapper used to store persistent information with an predefined {@link Schema}
  */
@@ -1019,7 +1019,7 @@ async function cache(context) {
         .open(CACHE)
         .then(cache => {
         console.log('[' + context + '] Opened cache');
-        return cache.addAll(["./","./colophon.html","./favicon.png","./index.html","./manifest.json","./pasmo_005.html","./pasmo_006.html","./pasmo_032.html","./pasmo_033.html","./promo.html","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./scripts/bundle.js","./resources/b_18477_003.jpg","./resources/b_18477_004.jpg","./resources/b_18477_004b.jpg","./resources/b_18477_005.jpg","./resources/b_18477_005b.jpg","./resources/b_18477_005c.jpg","./resources/b_18477_006b.jpg","./resources/b_18477_007.jpg","./resources/b_18477_007b.jpg","./resources/b_18477_008.jpg","./resources/b_18477_008b.jpg","./resources/b_18477_009.jpg","./resources/b_18477_009b.jpg","./resources/b_18477_006.jpg","./resources/image001.jpg","./resources/image002.jpg","./resources/image003.png","./resources/obalka.jpg","./resources/upoutavka_eknihy.jpg","./style/style.min.css","./template-images/circles.png"]);
+        return cache.addAll(["./","./colophon.html","./favicon.png","./index.html","./manifest.json","./pasmo_005.html","./pasmo_006.html","./pasmo_032.html","./pasmo_033.html","./promo.html","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/b_18477_003.jpg","./resources/b_18477_004.jpg","./resources/b_18477_004b.jpg","./resources/b_18477_005.jpg","./resources/b_18477_005b.jpg","./resources/b_18477_005c.jpg","./resources/b_18477_006.jpg","./resources/b_18477_006b.jpg","./resources/b_18477_007.jpg","./resources/b_18477_007b.jpg","./resources/b_18477_008.jpg","./resources/b_18477_008b.jpg","./resources/b_18477_009.jpg","./resources/b_18477_009b.jpg","./resources/image001.jpg","./resources/image002.jpg","./resources/image003.png","./resources/obalka.jpg","./resources/upoutavka_eknihy.jpg","./scripts/bundle.js","./style/style.min.css","./template-images/circles.png"]);
     })
         .then(() => idb.set({ key: 'cacheUpdatedAt', value: new Date().toISOString() }))
         .then(() => {

@@ -7,6 +7,8 @@ contentType: poetry
 
 
 
+<section>
+
 Tím starým světem přec jsi znaven na konec
 
 Pastýřko Eiffelko jak bečí stádo mostů dnes
@@ -26,11 +28,19 @@ Toť poesie dne a prosu dne žurnály dávají
 Sešity po šestáku o detektivech kteří prosluli  
 Portréty slavných mužů a steré tituly
 
+</section>
 
+
+
+<section>
 
 ![B_18477_004](./resources/b_18477_004.jpg)
 
+</section>
 
+
+
+<section>
 
 Viděl jsem dnes a jméno už nevím pěknou ulici  
 Novou a čistou byla to sluneční polnice  
@@ -43,11 +53,19 @@ Vřeští a štěbetají jak o závod s papoušky
 Mám rád tu pěknou ulici průmyslu a píle  
 Ležící v Paříži mezi třídou des Ternes a ulicí Aumont-Thiéville.
 
+</section>
 
+
+
+<section>
 
 ![B_18477_004b](./resources/b_18477_004b.jpg)
 
+</section>
 
+
+
+<section>
 
 Hle mladá ulice a ty sám jsi jen malé dítě  
 Tvá matka jinak než modře a bíle nešatí tě  
@@ -65,11 +83,19 @@ Toť dvojmocnina cti a věčnosti
 Toť hvězda o cípech šesti  
 Toť Bůh jenž v pátek mře a v neděli vzkříšen jesti
 
+</section>
 
+
+
+<section>
 
 ![B_18477_005](./resources/b_18477_005.jpg)
 
+</section>
 
+
+
+<section>
 
 Toť Kristus který k nebi lépe než letci vzlétá  
 Jemu náleží podnes výškový rekord světa  
@@ -77,11 +103,19 @@ Kristus panenka oka
 Dvacátá panenka věků v tom on se vyzná  
 A změněn v ptáka náš věk jak Ježíš nahoru letí
 
+</section>
 
+
+
+<section>
 
 ![B_18477_005b](./resources/b_18477_005b.jpg)
 
+</section>
 
+
+
+<section>
 
 Ďáblové v propastech zvedají hlavu by mohli naň pohleděti  
 Praví že napodobí co uměl už Šimon kouzelník  
@@ -108,11 +142,19 @@ V svém žhavém popeli na chvíli vše zahalí
 Sirény opustily své nebezpečné úskaliny  
 A chvátají krásně zpívajíce všecky tři
 
+</section>
 
+
+
+<section>
 
 ![B_18477_005c](./resources/b_18477_005c.jpg)
 
+</section>
 
+
+
+<section>
 
 A všichni orli fénix i pihi z Číny  
 Se s létacím strojem svorně pobratří
@@ -135,11 +177,19 @@ Z koruny žhavých plamenů pozřela na mne Panna v Chartres
 Krev vašeho Svatého Srdce mne zalila na Montmartru  
 Jsem chor slyše ta slova požehnaná
 
+</section>
 
+
+
+<section>
 
 ![B_18477_006](./resources/b_18477_006.jpg)
 
+</section>
 
+
+
+<section>
 
 Láska jíž trpím je má choroba tajná  
 A obraz který tě posedl ti pomůže přežít úzkost a bdění  
@@ -157,24 +207,44 @@ Cítíš se zcela šťasten na stůl růži ti dali
 A místo abys psal svou povídku lenošíš pohříchu  
 Hledě na mandelinku spící v růžovém kalichu
 
+</section>
 
+
+
+<section>
 
 ![B_18477_006b](./resources/b_18477_006b.jpg)
 
+</section>
 
+
+
+<section>
 
 V achátech Svatovítských zříš zděšen své vlastní rysy  
 Na smrt jsi smuten byl v ten den kdy sebe v nich objevil jsi
 
+</section>
 
+
+
+<section>
 
 ![B_18477_007](./resources/b_18477_007.jpg)
 
+</section>
 
+
+
+<section>
 
 ![B_18477_007b](./resources/b_18477_007b.jpg)
 
+</section>
 
+
+
+<section>
 
 Podoben Lazaru kterého světlo drtí  
 Pozpátku točí se ručičky hodin v židovské čtvrti  
@@ -200,11 +270,19 @@ V bolestných cestách i šťastných jsi proběhl kus světa
 Dřív než jsi postřehl lež a svoje leta  
 V dvaceti láskou trpěl jsi a ve třiceti zas
 
+</section>
 
+
+
+<section>
 
 ![B_18477_008](./resources/b_18477_008.jpg)
 
+</section>
 
+
+
+<section>
 
 Jak blázen žil jsem a ztratil jsem svůj čas  
 Na své ruce se už netroufáš podívat a stále chce se ti zaplakat  
@@ -235,22 +313,38 @@ Zpívá se tančí pije se šampaňské
 Ty dívky nejsou zlé a mají své starosti přec  
 I od té nejošklivější svou bolest zakusil milenec
 
+</section>
 
+
+
+<section>
 
 ![B_18477_008b](./resources/b_18477_008b.jpg)
 
+</section>
 
+
+
+<section>
 
 Je to dcera městského strážníka prý z Cannes  
 Neznám její ruce jsou tvrdé a rozprýskané
 
 Mám soustrast nesmírnou se švy jejího břicha
 
+</section>
 
+
+
+<section>
 
 ![B_18477_009](./resources/b_18477_009.jpg)
 
+</section>
 
+
+
+<section>
 
 Pokorně dávám svá ústa ubohé dívce se strašným smíchem
 
@@ -274,6 +368,12 @@ Slunce plá pláče
 
 (Alcools.)
 
+</section>
 
+
+
+<section>
 
 ![B_18477_009b](./resources/b_18477_009b.jpg)
+
+</section>

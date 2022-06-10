@@ -7,8 +7,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "apollinaire-pasmo-434e356",
-  "revision": "434e356",
+  "identifier": "apollinaire-pasmo-5b50fe8",
+  "revision": "5b50fe8",
   "readingOrder": [
     "promo.html",
     "pasmo_005.html",
@@ -18,8 +18,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Fri Jun 10 2022 14:18:54 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654870734078
+    "date": "Fri Jun 10 2022 17:53:57 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654883637825
   },
   "documents": [
     {
@@ -37,9 +37,9 @@
     {
       "title": "Pásmo",
       "file": "pasmo_005.html",
-      "words": 0,
+      "words": 1,
       "chars": 0,
-      "ideas": 0,
+      "ideas": 1,
       "role": "chapter",
       "order": 1,
       "prev": "promo.html",
@@ -117,9 +117,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 118,
-      "chars": 789,
-      "ideas": 15,
+      "words": 43,
+      "chars": 326,
+      "ideas": 5,
       "role": "colophon",
       "order": null,
       "prev": "pasmo_033.html",
@@ -137,14 +137,14 @@
   ],
   "totals": {
     "all": {
-      "words": 1694,
-      "chars": 9852,
-      "ideas": 205
+      "words": 1620,
+      "chars": 9389,
+      "ideas": 196
     },
     "chapters": {
-      "words": 1572,
+      "words": 1573,
       "chars": 9034,
-      "ideas": 187
+      "ideas": 188
     }
   }
 }
