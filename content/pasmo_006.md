@@ -1,6 +1,6 @@
 ---
 title: Pásmo
-contentType: prose
+contentType: poetry
 ---
 
 
