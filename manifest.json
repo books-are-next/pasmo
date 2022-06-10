@@ -7,8 +7,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "apollinaire-pasmo-53aaa97",
-  "revision": "53aaa97",
+  "identifier": "apollinaire-pasmo-434e356",
+  "revision": "434e356",
   "readingOrder": [
     "promo.html",
     "pasmo_005.html",
@@ -18,8 +18,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Thu May 12 2022 10:40:23 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1652352023324
+    "date": "Fri Jun 10 2022 14:18:54 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654870734078
   },
   "documents": [
     {

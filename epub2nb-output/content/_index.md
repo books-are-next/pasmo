@@ -1,6 +1,6 @@
 ---
 title: ''
-contentType: prose
+contentType: poetry
 ---
 
 ![Pásmo](./resources/obalka.jpg)

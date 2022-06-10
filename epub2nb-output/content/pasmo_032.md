@@ -1,6 +1,6 @@
 ---
 title: Poznámka Karla Čapka
-contentType: prose
+contentType: poetry
 ---
 
 Mladý francouzský básník **Guillaume Apollinaire****,** po otci Polák, povahou kosmopolita, kulturou a čestnou účastí na veliké válce, z níž vyšel s těžkým poraněním, pravý Francouz, zemřel asi před dvěma měsíci chřipkovou nákazou, několik dní po své svatbě, krátce po uzavřeném příměří, kdy se kulturní tvorbě otevírala nová budoucnost. Jako básník přejal G. Apollinaire tradici symbolismu, obohativ ji podivnými, teskně rozmarnými tóny své nepokojné, výstřední, bohaté osobnosti. Hravost, dětský pláč, exotičnost, schválnost i melodická prostota, tyto protikladné rysy vyzírají všude z jeho „Alkoholů“, ve kterých krátce před válkou shrnul básnickou žeň svého života.
