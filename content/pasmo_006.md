@@ -6,7 +6,6 @@ contentType: poetry
 
 
 
-
 <section>
 
 Tím starým světem přec jsi znaven na konec
@@ -30,15 +29,11 @@ Portréty slavných mužů a steré tituly
 
 </section>
 
-
-
 <section>
 
 ![B_18477_004](./resources/b_18477_004.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -55,15 +50,11 @@ Ležící v Paříži mezi třídou des Ternes a ulicí Aumont-Thiéville.
 
 </section>
 
-
-
 <section>
 
 ![B_18477_004b](./resources/b_18477_004b.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -85,15 +76,11 @@ Toť Bůh jenž v pátek mře a v neděli vzkříšen jesti
 
 </section>
 
-
-
 <section>
 
 ![B_18477_005](./resources/b_18477_005.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -105,15 +92,11 @@ A změněn v ptáka náš věk jak Ježíš nahoru letí
 
 </section>
 
-
-
 <section>
 
 ![B_18477_005b](./resources/b_18477_005b.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -144,15 +127,11 @@ A chvátají krásně zpívajíce všecky tři
 
 </section>
 
-
-
 <section>
 
 ![B_18477_005c](./resources/b_18477_005c.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -179,15 +158,11 @@ Jsem chor slyše ta slova požehnaná
 
 </section>
 
-
-
 <section>
 
 ![B_18477_006](./resources/b_18477_006.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -209,15 +184,11 @@ Hledě na mandelinku spící v růžovém kalichu
 
 </section>
 
-
-
 <section>
 
 ![B_18477_006b](./resources/b_18477_006b.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -226,23 +197,17 @@ Na smrt jsi smuten byl v ten den kdy sebe v nich objevil jsi
 
 </section>
 
-
-
 <section>
 
 ![B_18477_007](./resources/b_18477_007.jpg)
 
 </section>
 
-
-
 <section>
 
 ![B_18477_007b](./resources/b_18477_007b.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -272,15 +237,11 @@ V dvaceti láskou trpěl jsi a ve třiceti zas
 
 </section>
 
-
-
 <section>
 
 ![B_18477_008](./resources/b_18477_008.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -315,15 +276,11 @@ I od té nejošklivější svou bolest zakusil milenec
 
 </section>
 
-
-
 <section>
 
 ![B_18477_008b](./resources/b_18477_008b.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -334,15 +291,11 @@ Mám soustrast nesmírnou se švy jejího břicha
 
 </section>
 
-
-
 <section>
 
 ![B_18477_009](./resources/b_18477_009.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -369,8 +322,6 @@ Slunce plá pláče
 (Alcools.)
 
 </section>
-
-
 
 <section>
 
