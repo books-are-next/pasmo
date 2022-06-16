@@ -12,6 +12,7 @@ meta:
   publisher: Městská knihovna v Praze
   modified: '2022-03-17T06:50:54.655Z'
   publisherShort: mkp
+  edition: poezie
 readingOrder:
   - promo.html
   - pasmo_005.html

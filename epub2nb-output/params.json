@@ -8,7 +8,8 @@
       "author": "Guillaume Apollinaire",
       "publisher": "Městská knihovna v Praze",
       "modified": "2022-03-17T06:50:54.655Z",
-      "publisherShort": "mkp"
+      "publisherShort": "mkp",
+      "edition": "poezie"
     },
     "elements": {
       "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola\nmlpuroven1cast\nmlpuroven1zvlastnipripady",
@@ -812,6 +813,6 @@
       "user": "books-are-next",
       "repo": "pasmo"
     },
-    "generatedAt": 1655271593492
+    "generatedAt": 1655364266478
   }
 }
