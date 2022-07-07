@@ -19,7 +19,7 @@ readingOrder:
   - pasmo_006.html
   - pasmo_032.html
   - pasmo_033.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
