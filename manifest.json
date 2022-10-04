@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "apollinaire-pasmo-e335f86",
-  "revision": "e335f86",
+  "identifier": "apollinaire-pasmo-18f2857",
+  "revision": "18f2857",
   "readingOrder": [
     "promo.html",
     "pasmo_005.html",
@@ -19,8 +19,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Sat Oct 01 2022 16:01:12 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664640072929
+    "date": "Tue Oct 04 2022 16:49:26 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664902166341
   },
   "documents": [
     {
@@ -118,9 +118,9 @@
     {
       "title": "Tiráž",
       "file": "about.html",
-      "words": 137,
+      "words": 135,
       "chars": 924,
-      "ideas": 16,
+      "ideas": 14,
       "role": "about",
       "order": null,
       "prev": "pasmo_033.html",
@@ -138,9 +138,9 @@
   ],
   "totals": {
     "all": {
-      "words": 1715,
+      "words": 1713,
       "chars": 9993,
-      "ideas": 208
+      "ideas": 206
     },
     "chapters": {
       "words": 1573,
